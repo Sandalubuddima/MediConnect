@@ -1,3 +1,3 @@
 # MediConnect
 
-ආදරෙයි තෙරුවන් සරනයි... 😎
+please enter your id and name 
